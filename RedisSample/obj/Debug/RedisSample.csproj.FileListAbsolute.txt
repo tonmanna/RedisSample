@@ -1,0 +1,16 @@
+C:\Project\RedisSample\RedisSample\bin\Debug\RedisSample.exe.config
+C:\Project\RedisSample\RedisSample\bin\Debug\RedisSample.exe
+C:\Project\RedisSample\RedisSample\bin\Debug\RedisSample.pdb
+C:\Project\RedisSample\RedisSample\bin\Debug\StackExchange.Redis.dll
+C:\Project\RedisSample\RedisSample\bin\Debug\StackExchange.Redis.pdb
+C:\Project\RedisSample\RedisSample\bin\Debug\StackExchange.Redis.xml
+C:\Project\RedisSample\RedisSample\obj\Debug\RedisSample.csprojResolveAssemblyReference.cache
+C:\Project\RedisSample\RedisSample\obj\Debug\RedisSample.exe
+C:\Project\RedisSample\RedisSample\obj\Debug\RedisSample.pdb
+C:\Project\RedisSample\RedisSample\bin\Debug\ServiceStack.Common.dll
+C:\Project\RedisSample\RedisSample\bin\Debug\ServiceStack.Interfaces.dll
+C:\Project\RedisSample\RedisSample\bin\Debug\ServiceStack.Redis.dll
+C:\Project\RedisSample\RedisSample\bin\Debug\ServiceStack.Text.dll
+C:\Project\RedisSample\RedisSample\bin\Debug\ServiceStack.Common.xml
+C:\Project\RedisSample\RedisSample\bin\Debug\ServiceStack.Redis.xml
+C:\Project\RedisSample\RedisSample\bin\Debug\ServiceStack.Text.xml
